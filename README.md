@@ -18,6 +18,7 @@
 | [0075-sort-colors](https://github.com/Aasha-M5/APS-E3-/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Aasha-M5/APS-E3-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Aasha-M5/APS-E3-/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Aasha-M5/APS-E3-/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aasha-M5/APS-E3-/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -60,4 +61,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Aasha-M5/APS-E3-/tree/master/0387-first-unique-character-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Aasha-M5/APS-E3-/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
