@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Aasha-M5/APS-E3-/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aasha-M5/APS-E3-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Aasha-M5/APS-E3-/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/Aasha-M5/APS-E3-/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aasha-M5/APS-E3-/tree/master/0977-squares-of-a-sorted-array) |
@@ -38,4 +39,8 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Aasha-M5/APS-E3-/tree/master/0704-binary-search) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aasha-M5/APS-E3-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
