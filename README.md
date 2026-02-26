@@ -7,6 +7,7 @@
 | [0075-sort-colors](https://github.com/Aasha-M5/APS-E3-/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aasha-M5/APS-E3-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Aasha-M5/APS-E3-/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Aasha-M5/APS-E3-/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Aasha-M5/APS-E3-/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aasha-M5/APS-E3-/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Aasha-M5/APS-E3-/tree/master/1480-running-sum-of-1d-array) |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Aasha-M5/APS-E3-/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/Aasha-M5/APS-E3-/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aasha-M5/APS-E3-/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
