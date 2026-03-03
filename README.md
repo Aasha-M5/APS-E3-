@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aasha-M5/APS-E3-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/Aasha-M5/APS-E3-/tree/master/0008-string-to-integer-atoi) |
 | [0344-reverse-string](https://github.com/Aasha-M5/APS-E3-/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aasha-M5/APS-E3-/tree/master/0387-first-unique-character-in-a-string) |
 | [0890-find-and-replace-pattern](https://github.com/Aasha-M5/APS-E3-/tree/master/0890-find-and-replace-pattern) |
