@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Aasha-M5/APS-E3-/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Aasha-M5/APS-E3-/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aasha-M5/APS-E3-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Aasha-M5/APS-E3-/tree/master/0217-contains-duplicate) |
@@ -52,6 +53,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Aasha-M5/APS-E3-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aasha-M5/APS-E3-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
 |  |
@@ -87,4 +89,8 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Aasha-M5/APS-E3-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Aasha-M5/APS-E3-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Aasha-M5/APS-E3-/tree/master/0234-palindrome-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Aasha-M5/APS-E3-/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
