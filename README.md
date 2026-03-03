@@ -10,6 +10,7 @@
 | [0217-contains-duplicate](https://github.com/Aasha-M5/APS-E3-/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Aasha-M5/APS-E3-/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Aasha-M5/APS-E3-/tree/master/0704-binary-search) |
+| [0890-find-and-replace-pattern](https://github.com/Aasha-M5/APS-E3-/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aasha-M5/APS-E3-/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aasha-M5/APS-E3-/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Aasha-M5/APS-E3-/tree/master/1480-running-sum-of-1d-array) |
@@ -39,6 +40,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Aasha-M5/APS-E3-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Aasha-M5/APS-E3-/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aasha-M5/APS-E3-/tree/master/0387-first-unique-character-in-a-string) |
+| [0890-find-and-replace-pattern](https://github.com/Aasha-M5/APS-E3-/tree/master/0890-find-and-replace-pattern) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aasha-M5/APS-E3-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0344-reverse-string](https://github.com/Aasha-M5/APS-E3-/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aasha-M5/APS-E3-/tree/master/0387-first-unique-character-in-a-string) |
+| [0890-find-and-replace-pattern](https://github.com/Aasha-M5/APS-E3-/tree/master/0890-find-and-replace-pattern) |
 ## Queue
 |  |
 | ------- |
