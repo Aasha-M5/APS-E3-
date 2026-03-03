@@ -13,6 +13,7 @@
 | [0890-find-and-replace-pattern](https://github.com/Aasha-M5/APS-E3-/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aasha-M5/APS-E3-/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aasha-M5/APS-E3-/tree/master/0977-squares-of-a-sorted-array) |
+| [1408-string-matching-in-an-array](https://github.com/Aasha-M5/APS-E3-/tree/master/1408-string-matching-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Aasha-M5/APS-E3-/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Aasha-M5/APS-E3-/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Two Pointers
@@ -68,6 +69,7 @@
 | [0344-reverse-string](https://github.com/Aasha-M5/APS-E3-/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aasha-M5/APS-E3-/tree/master/0387-first-unique-character-in-a-string) |
 | [0890-find-and-replace-pattern](https://github.com/Aasha-M5/APS-E3-/tree/master/0890-find-and-replace-pattern) |
+| [1408-string-matching-in-an-array](https://github.com/Aasha-M5/APS-E3-/tree/master/1408-string-matching-in-an-array) |
 ## Queue
 |  |
 | ------- |
@@ -111,4 +113,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aasha-M5/APS-E3-/tree/master/0003-longest-substring-without-repeating-characters) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/Aasha-M5/APS-E3-/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
