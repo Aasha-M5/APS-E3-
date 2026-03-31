@@ -14,6 +14,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/Aasha-M5/APS-E3-/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aasha-M5/APS-E3-/tree/master/0977-squares-of-a-sorted-array) |
 | [1408-string-matching-in-an-array](https://github.com/Aasha-M5/APS-E3-/tree/master/1408-string-matching-in-an-array) |
+| [1472-design-browser-history](https://github.com/Aasha-M5/APS-E3-/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/Aasha-M5/APS-E3-/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Aasha-M5/APS-E3-/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Two Pointers
@@ -93,10 +94,12 @@
 | [0206-reverse-linked-list](https://github.com/Aasha-M5/APS-E3-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Aasha-M5/APS-E3-/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Aasha-M5/APS-E3-/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/Aasha-M5/APS-E3-/tree/master/1472-design-browser-history) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Aasha-M5/APS-E3-/tree/master/0234-palindrome-linked-list) |
+| [1472-design-browser-history](https://github.com/Aasha-M5/APS-E3-/tree/master/1472-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -133,10 +136,19 @@
 |  |
 | ------- |
 | [1396-design-underground-system](https://github.com/Aasha-M5/APS-E3-/tree/master/1396-design-underground-system) |
+| [1472-design-browser-history](https://github.com/Aasha-M5/APS-E3-/tree/master/1472-design-browser-history) |
 | [1600-throne-inheritance](https://github.com/Aasha-M5/APS-E3-/tree/master/1600-throne-inheritance) |
 | [1603-design-parking-system](https://github.com/Aasha-M5/APS-E3-/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/Aasha-M5/APS-E3-/tree/master/1603-design-parking-system) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Aasha-M5/APS-E3-/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Aasha-M5/APS-E3-/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
