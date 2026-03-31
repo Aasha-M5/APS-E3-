@@ -74,6 +74,7 @@
 | [0344-reverse-string](https://github.com/Aasha-M5/APS-E3-/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aasha-M5/APS-E3-/tree/master/0387-first-unique-character-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Aasha-M5/APS-E3-/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/Aasha-M5/APS-E3-/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/Aasha-M5/APS-E3-/tree/master/0890-find-and-replace-pattern) |
 | [1396-design-underground-system](https://github.com/Aasha-M5/APS-E3-/tree/master/1396-design-underground-system) |
 | [1408-string-matching-in-an-array](https://github.com/Aasha-M5/APS-E3-/tree/master/1408-string-matching-in-an-array) |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Aasha-M5/APS-E3-/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/Aasha-M5/APS-E3-/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/Aasha-M5/APS-E3-/tree/master/1408-string-matching-in-an-array) |
 ## Tree
 |  |
