@@ -80,6 +80,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Aasha-M5/APS-E3-/tree/master/0387-first-unique-character-in-a-string) |
+| [1603-design-parking-system](https://github.com/Aasha-M5/APS-E3-/tree/master/1603-design-parking-system) |
 ## Linked List
 |  |
 | ------- |
@@ -130,4 +131,9 @@
 |  |
 | ------- |
 | [1600-throne-inheritance](https://github.com/Aasha-M5/APS-E3-/tree/master/1600-throne-inheritance) |
+| [1603-design-parking-system](https://github.com/Aasha-M5/APS-E3-/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Aasha-M5/APS-E3-/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
