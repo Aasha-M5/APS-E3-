@@ -10,6 +10,7 @@
 | [0217-contains-duplicate](https://github.com/Aasha-M5/APS-E3-/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Aasha-M5/APS-E3-/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Aasha-M5/APS-E3-/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/Aasha-M5/APS-E3-/tree/master/0705-design-hashset) |
 | [0890-find-and-replace-pattern](https://github.com/Aasha-M5/APS-E3-/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aasha-M5/APS-E3-/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aasha-M5/APS-E3-/tree/master/0977-squares-of-a-sorted-array) |
@@ -42,6 +43,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Aasha-M5/APS-E3-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Aasha-M5/APS-E3-/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aasha-M5/APS-E3-/tree/master/0387-first-unique-character-in-a-string) |
+| [0705-design-hashset](https://github.com/Aasha-M5/APS-E3-/tree/master/0705-design-hashset) |
 | [0890-find-and-replace-pattern](https://github.com/Aasha-M5/APS-E3-/tree/master/0890-find-and-replace-pattern) |
 | [1396-design-underground-system](https://github.com/Aasha-M5/APS-E3-/tree/master/1396-design-underground-system) |
 | [1600-throne-inheritance](https://github.com/Aasha-M5/APS-E3-/tree/master/1600-throne-inheritance) |
@@ -93,6 +95,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Aasha-M5/APS-E3-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Aasha-M5/APS-E3-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Aasha-M5/APS-E3-/tree/master/0234-palindrome-linked-list) |
+| [0705-design-hashset](https://github.com/Aasha-M5/APS-E3-/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/Aasha-M5/APS-E3-/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/Aasha-M5/APS-E3-/tree/master/1472-design-browser-history) |
 ## Stack
@@ -135,6 +138,7 @@
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/Aasha-M5/APS-E3-/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/Aasha-M5/APS-E3-/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/Aasha-M5/APS-E3-/tree/master/1472-design-browser-history) |
 | [1600-throne-inheritance](https://github.com/Aasha-M5/APS-E3-/tree/master/1600-throne-inheritance) |
@@ -151,4 +155,8 @@
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/Aasha-M5/APS-E3-/tree/master/1472-design-browser-history) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Aasha-M5/APS-E3-/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
