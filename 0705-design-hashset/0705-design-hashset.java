@@ -1,21 +1,20 @@
-import java.util.BitSet;
-
 class MyHashSet {
-    BitSet set;
+
+    boolean[] set;
 
     public MyHashSet() {
-        set = new BitSet(1000001);
+        set = new boolean[1000001];
     }
 
     public void add(int key) {
-        set.set(key);
+        set[key] = true;
     }
 
     public void remove(int key) {
-        set.clear(key);
+        set[key] = false;
     }
 
     public boolean contains(int key) {
-        return set.get(key);
+        return set[key];
     }
 }
