@@ -21,6 +21,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aasha-M5/APS-E3-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Aasha-M5/APS-E3-/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/Aasha-M5/APS-E3-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aasha-M5/APS-E3-/tree/master/0160-intersection-of-two-linked-lists) |
@@ -72,6 +73,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aasha-M5/APS-E3-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Aasha-M5/APS-E3-/tree/master/0008-string-to-integer-atoi) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aasha-M5/APS-E3-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/Aasha-M5/APS-E3-/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aasha-M5/APS-E3-/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aasha-M5/APS-E3-/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -131,6 +133,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aasha-M5/APS-E3-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Aasha-M5/APS-E3-/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Aasha-M5/APS-E3-/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/Aasha-M5/APS-E3-/tree/master/1408-string-matching-in-an-array) |
