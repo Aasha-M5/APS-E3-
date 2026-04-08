@@ -115,6 +115,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aasha-M5/APS-E3-/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Aasha-M5/APS-E3-/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Aasha-M5/APS-E3-/tree/master/0234-palindrome-linked-list) |
 | [1472-design-browser-history](https://github.com/Aasha-M5/APS-E3-/tree/master/1472-design-browser-history) |
 ## Recursion
@@ -156,6 +157,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Aasha-M5/APS-E3-/tree/master/0155-min-stack) |
 | [0705-design-hashset](https://github.com/Aasha-M5/APS-E3-/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/Aasha-M5/APS-E3-/tree/master/0707-design-linked-list) |
 | [1396-design-underground-system](https://github.com/Aasha-M5/APS-E3-/tree/master/1396-design-underground-system) |
