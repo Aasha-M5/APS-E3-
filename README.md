@@ -107,6 +107,7 @@
 | [0206-reverse-linked-list](https://github.com/Aasha-M5/APS-E3-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Aasha-M5/APS-E3-/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/Aasha-M5/APS-E3-/tree/master/0705-design-hashset) |
+| [0707-design-linked-list](https://github.com/Aasha-M5/APS-E3-/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Aasha-M5/APS-E3-/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/Aasha-M5/APS-E3-/tree/master/1472-design-browser-history) |
 ## Stack
@@ -154,6 +155,7 @@
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Aasha-M5/APS-E3-/tree/master/0705-design-hashset) |
+| [0707-design-linked-list](https://github.com/Aasha-M5/APS-E3-/tree/master/0707-design-linked-list) |
 | [1396-design-underground-system](https://github.com/Aasha-M5/APS-E3-/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/Aasha-M5/APS-E3-/tree/master/1472-design-browser-history) |
 | [1600-throne-inheritance](https://github.com/Aasha-M5/APS-E3-/tree/master/1600-throne-inheritance) |
