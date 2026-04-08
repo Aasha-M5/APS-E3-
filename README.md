@@ -13,6 +13,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aasha-M5/APS-E3-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/Aasha-M5/APS-E3-/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Aasha-M5/APS-E3-/tree/master/0705-design-hashset) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Aasha-M5/APS-E3-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0890-find-and-replace-pattern](https://github.com/Aasha-M5/APS-E3-/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aasha-M5/APS-E3-/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aasha-M5/APS-E3-/tree/master/0977-squares-of-a-sorted-array) |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Aasha-M5/APS-E3-/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Aasha-M5/APS-E3-/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
