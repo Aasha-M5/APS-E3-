@@ -154,10 +154,12 @@
 ## Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Aasha-M5/APS-E3-/tree/master/0199-binary-tree-right-side-view) |
 | [1600-throne-inheritance](https://github.com/Aasha-M5/APS-E3-/tree/master/1600-throne-inheritance) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Aasha-M5/APS-E3-/tree/master/0199-binary-tree-right-side-view) |
 | [1600-throne-inheritance](https://github.com/Aasha-M5/APS-E3-/tree/master/1600-throne-inheritance) |
 ## Design
 |  |
@@ -185,4 +187,12 @@
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Aasha-M5/APS-E3-/tree/master/0705-design-hashset) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Aasha-M5/APS-E3-/tree/master/0199-binary-tree-right-side-view) |
+## Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Aasha-M5/APS-E3-/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
