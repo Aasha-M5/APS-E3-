@@ -8,6 +8,7 @@
 | [0075-sort-colors](https://github.com/Aasha-M5/APS-E3-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aasha-M5/APS-E3-/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aasha-M5/APS-E3-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Aasha-M5/APS-E3-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aasha-M5/APS-E3-/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Aasha-M5/APS-E3-/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aasha-M5/APS-E3-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -40,6 +41,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Aasha-M5/APS-E3-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aasha-M5/APS-E3-/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Aasha-M5/APS-E3-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aasha-M5/APS-E3-/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aasha-M5/APS-E3-/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -48,6 +50,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aasha-M5/APS-E3-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/Aasha-M5/APS-E3-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aasha-M5/APS-E3-/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Aasha-M5/APS-E3-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aasha-M5/APS-E3-/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aasha-M5/APS-E3-/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aasha-M5/APS-E3-/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -101,6 +104,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Aasha-M5/APS-E3-/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aasha-M5/APS-E3-/tree/master/0387-first-unique-character-in-a-string) |
 | [1603-design-parking-system](https://github.com/Aasha-M5/APS-E3-/tree/master/1603-design-parking-system) |
 ## Linked List
@@ -134,6 +138,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aasha-M5/APS-E3-/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Aasha-M5/APS-E3-/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aasha-M5/APS-E3-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
