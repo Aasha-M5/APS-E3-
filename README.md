@@ -49,6 +49,7 @@
 | [0217-contains-duplicate](https://github.com/Aasha-M5/APS-E3-/tree/master/0217-contains-duplicate) |
 | [0973-k-closest-points-to-origin](https://github.com/Aasha-M5/APS-E3-/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aasha-M5/APS-E3-/tree/master/0977-squares-of-a-sorted-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aasha-M5/APS-E3-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aasha-M5/APS-E3-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0705-design-hashset](https://github.com/Aasha-M5/APS-E3-/tree/master/0705-design-hashset) |
 | [0890-find-and-replace-pattern](https://github.com/Aasha-M5/APS-E3-/tree/master/0890-find-and-replace-pattern) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aasha-M5/APS-E3-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1396-design-underground-system](https://github.com/Aasha-M5/APS-E3-/tree/master/1396-design-underground-system) |
 | [1600-throne-inheritance](https://github.com/Aasha-M5/APS-E3-/tree/master/1600-throne-inheritance) |
 | [1763-longest-nice-substring](https://github.com/Aasha-M5/APS-E3-/tree/master/1763-longest-nice-substring) |
@@ -186,6 +188,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Aasha-M5/APS-E3-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aasha-M5/APS-E3-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Aasha-M5/APS-E3-/tree/master/0199-binary-tree-right-side-view) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aasha-M5/APS-E3-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1600-throne-inheritance](https://github.com/Aasha-M5/APS-E3-/tree/master/1600-throne-inheritance) |
 ## Depth-First Search
 |  |
@@ -196,6 +199,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Aasha-M5/APS-E3-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aasha-M5/APS-E3-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Aasha-M5/APS-E3-/tree/master/0199-binary-tree-right-side-view) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aasha-M5/APS-E3-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1600-throne-inheritance](https://github.com/Aasha-M5/APS-E3-/tree/master/1600-throne-inheritance) |
 ## Design
 |  |
@@ -229,6 +233,7 @@
 | [0100-same-tree](https://github.com/Aasha-M5/APS-E3-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aasha-M5/APS-E3-/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Aasha-M5/APS-E3-/tree/master/0199-binary-tree-right-side-view) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aasha-M5/APS-E3-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -238,6 +243,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Aasha-M5/APS-E3-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aasha-M5/APS-E3-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Aasha-M5/APS-E3-/tree/master/0199-binary-tree-right-side-view) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aasha-M5/APS-E3-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
