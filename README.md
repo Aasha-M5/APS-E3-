@@ -59,6 +59,7 @@
 | [0890-find-and-replace-pattern](https://github.com/Aasha-M5/APS-E3-/tree/master/0890-find-and-replace-pattern) |
 | [1396-design-underground-system](https://github.com/Aasha-M5/APS-E3-/tree/master/1396-design-underground-system) |
 | [1600-throne-inheritance](https://github.com/Aasha-M5/APS-E3-/tree/master/1600-throne-inheritance) |
+| [1763-longest-nice-substring](https://github.com/Aasha-M5/APS-E3-/tree/master/1763-longest-nice-substring) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [0890-find-and-replace-pattern](https://github.com/Aasha-M5/APS-E3-/tree/master/0890-find-and-replace-pattern) |
 | [1396-design-underground-system](https://github.com/Aasha-M5/APS-E3-/tree/master/1396-design-underground-system) |
 | [1408-string-matching-in-an-array](https://github.com/Aasha-M5/APS-E3-/tree/master/1408-string-matching-in-an-array) |
+| [1763-longest-nice-substring](https://github.com/Aasha-M5/APS-E3-/tree/master/1763-longest-nice-substring) |
 ## Queue
 |  |
 | ------- |
@@ -141,6 +143,7 @@
 | [0169-majority-element](https://github.com/Aasha-M5/APS-E3-/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Aasha-M5/APS-E3-/tree/master/0190-reverse-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aasha-M5/APS-E3-/tree/master/0918-maximum-sum-circular-subarray) |
+| [1763-longest-nice-substring](https://github.com/Aasha-M5/APS-E3-/tree/master/1763-longest-nice-substring) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -150,6 +153,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aasha-M5/APS-E3-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aasha-M5/APS-E3-/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1763-longest-nice-substring](https://github.com/Aasha-M5/APS-E3-/tree/master/1763-longest-nice-substring) |
 ## String Matching
 |  |
 | ------- |
@@ -205,4 +209,5 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Aasha-M5/APS-E3-/tree/master/0190-reverse-bits) |
+| [1763-longest-nice-substring](https://github.com/Aasha-M5/APS-E3-/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
