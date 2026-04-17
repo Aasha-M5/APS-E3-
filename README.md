@@ -11,6 +11,7 @@
 | [0169-majority-element](https://github.com/Aasha-M5/APS-E3-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aasha-M5/APS-E3-/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Aasha-M5/APS-E3-/tree/master/0283-move-zeroes) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Aasha-M5/APS-E3-/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aasha-M5/APS-E3-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/Aasha-M5/APS-E3-/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Aasha-M5/APS-E3-/tree/master/0705-design-hashset) |
@@ -72,6 +73,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Aasha-M5/APS-E3-/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0704-binary-search](https://github.com/Aasha-M5/APS-E3-/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aasha-M5/APS-E3-/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Dynamic Programming
@@ -142,6 +144,7 @@
 | [0053-maximum-subarray](https://github.com/Aasha-M5/APS-E3-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Aasha-M5/APS-E3-/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Aasha-M5/APS-E3-/tree/master/0190-reverse-bits) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Aasha-M5/APS-E3-/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aasha-M5/APS-E3-/tree/master/0918-maximum-sum-circular-subarray) |
 | [1763-longest-nice-substring](https://github.com/Aasha-M5/APS-E3-/tree/master/1763-longest-nice-substring) |
 ## Monotonic Queue
@@ -210,4 +213,20 @@
 | ------- |
 | [0190-reverse-bits](https://github.com/Aasha-M5/APS-E3-/tree/master/0190-reverse-bits) |
 | [1763-longest-nice-substring](https://github.com/Aasha-M5/APS-E3-/tree/master/1763-longest-nice-substring) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Aasha-M5/APS-E3-/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Aasha-M5/APS-E3-/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Aasha-M5/APS-E3-/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Aasha-M5/APS-E3-/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
