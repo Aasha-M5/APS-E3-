@@ -18,6 +18,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aasha-M5/APS-E3-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0890-find-and-replace-pattern](https://github.com/Aasha-M5/APS-E3-/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aasha-M5/APS-E3-/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/Aasha-M5/APS-E3-/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aasha-M5/APS-E3-/tree/master/0977-squares-of-a-sorted-array) |
 | [1408-string-matching-in-an-array](https://github.com/Aasha-M5/APS-E3-/tree/master/1408-string-matching-in-an-array) |
 | [1472-design-browser-history](https://github.com/Aasha-M5/APS-E3-/tree/master/1472-design-browser-history) |
@@ -44,6 +45,7 @@
 | [0088-merge-sorted-array](https://github.com/Aasha-M5/APS-E3-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Aasha-M5/APS-E3-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aasha-M5/APS-E3-/tree/master/0217-contains-duplicate) |
+| [0973-k-closest-points-to-origin](https://github.com/Aasha-M5/APS-E3-/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aasha-M5/APS-E3-/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -69,6 +71,7 @@
 ## Math
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Aasha-M5/APS-E3-/tree/master/0973-k-closest-points-to-origin) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Aasha-M5/APS-E3-/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Binary Search
 |  |
@@ -146,6 +149,7 @@
 | [0190-reverse-bits](https://github.com/Aasha-M5/APS-E3-/tree/master/0190-reverse-bits) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Aasha-M5/APS-E3-/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aasha-M5/APS-E3-/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/Aasha-M5/APS-E3-/tree/master/0973-k-closest-points-to-origin) |
 | [1763-longest-nice-substring](https://github.com/Aasha-M5/APS-E3-/tree/master/1763-longest-nice-substring) |
 ## Monotonic Queue
 |  |
@@ -229,4 +233,16 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Aasha-M5/APS-E3-/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Aasha-M5/APS-E3-/tree/master/0973-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Aasha-M5/APS-E3-/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Aasha-M5/APS-E3-/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
