@@ -139,6 +139,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aasha-M5/APS-E3-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Aasha-M5/APS-E3-/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Aasha-M5/APS-E3-/tree/master/0190-reverse-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aasha-M5/APS-E3-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -200,4 +201,8 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Aasha-M5/APS-E3-/tree/master/0199-binary-tree-right-side-view) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Aasha-M5/APS-E3-/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
